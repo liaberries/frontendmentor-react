@@ -10,12 +10,18 @@
   
   /* Typography */
   --body-font-size: 16px;
-  --font-family: 'Red Hat Display', sans-serif;
+  --font-family: "Red Hat Display", sans-serif;
   --fontw-regular: 500;
   --fontw-medium: 700;
   --fontw-bold: 900;
-
-
-
 }
 
+body {
+  font-family: var(--font-family);
+}
+
+.main-title {
+  color:hsl(223.53,46.79%,21.37%);
+  font-size: 1.8em;
+  font-weight: var(--fontw-bold);
+}
