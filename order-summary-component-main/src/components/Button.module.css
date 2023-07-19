@@ -1,6 +1,6 @@
 .button-container {
     padding-top: 1.5em;
-    padding-bottom: 1.5em;
+    padding-bottom: 1.4em;
 }
 
 .btn {
@@ -10,15 +10,37 @@
     font-weight: 700;
     border-radius: 0.7em;
     border: none;
-    padding: 1.2em;
+    padding: 1.1em;
     width: 290px;
     text-align: center;
-    box-shadow: #c0bbff 0px 5px 35px;
+    box-shadow: #b0abfa 0px 5px 35px;
     letter-spacing: 0.04em;
 }
 
+.btn:hover{
+    background-color:#766cf1;
+    cursor: pointer;
+}
+
+
 .cancel {
     text-decoration: none;
-    padding-bottom: 2.5em;
-    color: 
+    padding-bottom: 3em;
+    color: hsl(224, 23%, 55%);
+    font-size: 0.9rem;
+    font-weight: 900;
+    letter-spacing: 0.03em;
+}
+
+.cancel:hover {
+    color: hsl(223, 47%, 23%);
+}
+
+
+@media only screen and (min-width: 700px) {
+    
+    .btn {
+        width: 320px;
+    }
+
 }

@@ -1,6 +1,6 @@
 .plan-container {
     background-color: hsl(225, 100%, 98%);
-    padding: 1.3em;
+    padding: 1em;
     border-radius: 0.5em;
     display: flex;
     align-items: center;
@@ -15,7 +15,6 @@
     gap: 0.25em;
     margin-right: 2em;
     justify-content: center;
-
 }
 
 .title {
@@ -37,4 +36,12 @@ a {
 a:hover {
     color: #766cf1;
     text-decoration: none;
+}
+
+@media only screen and (min-width: 700px) {
+    
+    .plan-container {
+        width: 22.5em;
+    }
+
 }

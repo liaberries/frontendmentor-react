@@ -6,6 +6,7 @@
 }
 .order-title {
     font-size: 1.4rem;
+    padding: 1.4em 0 0.7em 0;
 }
 .body-text {
     font-size: 0.935rem;
@@ -15,3 +16,17 @@
     padding-bottom: 1.5em;
     line-height: 1.7em;
 }
+
+@media only screen and (min-width: 700px) {
+
+    .order-title {
+        font-size: 1.65rem;
+        padding-top: 1.7em;
+
+    }
+
+    .body-text {
+      width: 20em;
+      font-size: 1rem;
+    }
+  }
