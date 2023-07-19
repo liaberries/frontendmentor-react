@@ -10,7 +10,7 @@
   
   /* Typography */
   --body-font-size: 16px;
-  --font-family: 'Red Hat Display', sans-serif;
+  --font-family: "Red Hat Display", sans-serif;
   --fontw-regular: 500;
   --fontw-medium: 700;
   --fontw-bold: 900;
@@ -51,9 +51,10 @@ button {
 .app-container {
   display: flex;
   flex-direction: column;
+  box-shadow: #d7d4fb 0px 5px 35px;
   width: 21.5em;
   height: 30em;
-  box-shadow: #d7d4fb 0px 5px 35px;
+
 }
 
 .main-container {

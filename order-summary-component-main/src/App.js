@@ -1,8 +1,8 @@
 import React from 'react';
 import './index.css'
-import Button from './components/Button';
 import Summary from './components/Summary';
-import Plan from './components/Plan'
+import Button from './components/Button';
+import Plan from './components/Plan';
 import HeaderImage from './images/illustration-hero.svg';
 
 function App() {
