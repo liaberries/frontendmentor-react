@@ -1,0 +1,40 @@
+.plan-container {
+    background-color: hsl(225, 100%, 98%);
+    padding: 1.3em;
+    border-radius: 0.5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.3em;
+    height: 80px;
+}
+
+.annual-plan-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25em;
+    margin-right: 2em;
+    justify-content: center;
+
+}
+
+.title {
+    font-size: 0.9rem;
+    font-weight: 900;
+}
+
+.price {
+    color: hsl(224, 23%, 55%);
+    font-size: 0.9rem;
+}
+
+a {
+    font-weight: bold;
+    font-size: 0.85rem;
+    color: hsl(245, 75%, 52%);
+}
+
+a:hover {
+    color: #766cf1;
+    text-decoration: none;
+}

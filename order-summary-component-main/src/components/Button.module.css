@@ -1,0 +1,23 @@
+.button-container {
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+
+.btn {
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    font-size: 0.9rem;
+    font-weight: 700;
+    border-radius: 0.7em;
+    border: none;
+    padding: 1.2em;
+    width: 290px;
+    text-align: center;
+    box-shadow: #c0bbff 0px 5px 35px;
+    letter-spacing: 0.04em;
+}
+
+.cancel {
+    text-decoration: none;
+    padding-bottom: 2.5em;
+}

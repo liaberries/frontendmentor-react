@@ -14,8 +14,70 @@
   --fontw-regular: 500;
   --fontw-medium: 700;
   --fontw-bold: 900;
-
-
-
 }
 
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: var(--primary-pale-blue);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  font-family: var(--font-family);
+  padding: 2em;
+  margin-top: 3em;
+}
+
+h1 {
+  font-size: 1.35rem;
+  font-weight: var(--fontw-bold);
+  padding: 1.5em 0 1em 0;
+}
+
+h1, h3 {
+  color: var(--neutral-dark-blue);
+}
+
+button {
+  font-family: var(--font-family);
+}
+
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  width: 21.5em;
+  height: 30em;
+  box-shadow: #d7d4fb 0px 5px 35px;
+}
+
+.main-container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0 0 1.3em 1.3em;
+}
+
+.header-img-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.header-image {
+  border-radius: 1.3em 1.3em 0em 0em;
+}
+
+
+@media only screen and (min-width: 700px) {
+  .app-container {
+    width: 25em;
+    height: 40em;
+  }
+}
