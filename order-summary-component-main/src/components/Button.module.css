@@ -11,7 +11,7 @@
     border-radius: 0.7em;
     border: none;
     padding: 1.1em;
-    width: 290px;
+    width: 20em;
     text-align: center;
     box-shadow: #b0abfa 0px 5px 35px;
     letter-spacing: 0.04em;
@@ -25,7 +25,7 @@
 
 .cancel {
     text-decoration: none;
-    padding-bottom: 3em;
+    padding-bottom: 2.5em;
     color: hsl(224, 23%, 55%);
     font-size: 0.9rem;
     font-weight: 900;
@@ -39,8 +39,11 @@
 
 @media only screen and (min-width: 700px) {
     
+    .button-container {
+        padding-bottom:1.8em;
+    }
     .btn {
-        width: 320px;
+        width: 25em;
     }
 
 }

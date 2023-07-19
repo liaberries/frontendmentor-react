@@ -7,6 +7,7 @@
     justify-content: center;
     gap: 1.3em;
     height: 80px;
+    width: 18em;
 }
 
 .annual-plan-container {
@@ -41,7 +42,23 @@ a:hover {
 @media only screen and (min-width: 700px) {
     
     .plan-container {
+        justify-content: start;
         width: 22.5em;
     }
 
+    .annual-plan-container {
+        margin-right: 5em;
+    }
+
+    .title {
+        font-size: 1rem;
+    }
+    
+    .price {
+        font-size: 1rem;
+    }
+
+    a {
+        font-size: 0.93rem;
+    }
 }
