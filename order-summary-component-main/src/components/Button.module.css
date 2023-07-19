@@ -15,11 +15,13 @@
     text-align: center;
     box-shadow: #b0abfa 0px 5px 35px;
     letter-spacing: 0.04em;
+    transition: background-color 0.5s ease-in-out;
 }
 
 .btn:hover{
     background-color:#766cf1;
     cursor: pointer;
+    
 }
 
 
@@ -29,7 +31,7 @@
     color: hsl(224, 23%, 55%);
     font-size: 0.9rem;
     font-weight: 900;
-    letter-spacing: 0.03em;
+    
 }
 
 .cancel:hover {
@@ -43,7 +45,11 @@
         padding-bottom:1.8em;
     }
     .btn {
-        width: 25em;
+        width: 24.2em;
     }
 
+    .cancel {
+        padding-bottom: 3.3em;
+        font-size: 0.95rem;
+    }
 }
