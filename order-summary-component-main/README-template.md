@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![order-summary-screenshot](https://github.com/liaberries/frontendmentor-react/assets/70491947/f34b7d09-f076-4ef9-a0a9-af43c5832f87)
+![order-summary-screenshot](https://github.com/liaberries/frontendmentor-react/assets/70491947/7f541405-1c57-45ab-8a46-1a9d7d999000)
 
 ### Links
 
