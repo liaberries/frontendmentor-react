@@ -77,6 +77,7 @@ button {
     background-position: 0px -50px;
     background-image: url('./images/pattern-background-desktop.svg');
     background-repeat: no-repeat;
+    background-size: contain;
   }
   .app-container {
     width: 28em;
