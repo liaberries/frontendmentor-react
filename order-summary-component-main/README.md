@@ -1,14 +1,12 @@
 <!-- Introduction -->
 <div align="center">
-
   <img src="https://www.frontendmentor.io/static/images/logo-desktop.svg" alt="frontendmentor" width="400">
-
   <h1 align="center">Order Summary Card Solution</h1>
   <p align="center">
   <img src="https://user-images.githubusercontent.com/70491947/254990815-7f541405-1c57-45ab-8a46-1a9d7d999000.png" alt="challenge screenshot">
     <br />
     <br />
-    <a href="https://merry-selkie-fbd6d9.netlify.app/" target="_blank">View Demo</a>
+    <a href="https://dashing-bunny-3061b5.netlify.app/" target="_blank">View Demo</a>
     &nbsp;·&nbsp;
     <a href="https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj" target="_blank">View Challenge</a>
   </p>
