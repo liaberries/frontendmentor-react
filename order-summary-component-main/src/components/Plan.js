@@ -7,7 +7,7 @@ const Plan = () => {
     <div className={styles["plan-container"]}>
         <img src={PlanImage} alt="musical icon"></img>   
         <div className={styles["annual-plan-container"]}>
-            <h3 className={styles["title"]}>Annual Plan</h3>
+            <h2 className={styles["title"]}>Annual Plan</h2>
             <p className={styles["price"]}>$59.99/year</p>
         </div>
         <a href="#">Change</a>

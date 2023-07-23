@@ -7,7 +7,7 @@ import HeaderImage from './images/illustration-hero.svg';
 
 function App() {
   return (
-    <div className="app-container">
+    <main className="app-container">
       <div className="header-img-container">
         <img className="header-image" src={HeaderImage} alt="musical illustration"/>
       </div>
@@ -16,7 +16,7 @@ function App() {
         <Plan/>
         <Button/>
       </div>
-    </div>
+    </main>
   )
 }
 
