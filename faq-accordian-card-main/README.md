@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/70491947/254990815-7f541405-1c57-45ab-8a46-1a9d7d999000.png" alt="challenge screenshot">
     <br />
     <br />
-    <a href="https://dashing-bunny-3061b5.netlify.app/" target="_blank">View Demo</a>
+    <a href="https://dashing-bunny-3061b5.netlify.app/"target="_blank">View Demo</a>
     &nbsp;·&nbsp;
     <a href="https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj" target="_blank">View Challenge</a>
   </p>
