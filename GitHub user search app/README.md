@@ -1,6 +1,6 @@
 <!-- Introduction -->
 <div align="center">
-  ![Design preview for the GitHub user search app coding challenge](./preview.jpg)
+  <picture><img src="https://www.frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6"></picture>
   <h1 align="center">FAQ Accordion Card Solution</h1>
   <p align="center">
   <img src="https://user-images.githubusercontent.com/70491947/254990815-7f541405-1c57-45ab-8a46-1a9d7d999000.png" alt="challenge screenshot">
