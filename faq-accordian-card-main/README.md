@@ -23,9 +23,9 @@ The challenge is to build out this FAQ accordion card and get it looking as clos
 <p>
 Users should be able to:
     <ul>
+        <li>Hide/Show the answer to a question when the question is clicked</li>
         <li>View the optimal layout for the component depending on their device's screen size</li>
         <li>See hover states for all interactive elements on the page</li>
-        <li>Hide/Show the answer to a question when the question is clicked</li>
     </ul>
 </p>
 <br>
