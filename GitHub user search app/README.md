@@ -3,13 +3,15 @@
   
   <h1 align="center">FAQ Accordion Card Solution</h1>
   <p align="center">
-    <picture><img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1630058595/Challenges/axhe4rw0jpykyhdphhwc.jpg"></picture>
-  ##<img src="https://user-images.githubusercontent.com/70491947/254990815-7f541405-1c57-45ab-8a46-1a9d7d999000.png" alt="challenge screenshot">
+    
+  <!--- <img src="https://user-images.githubusercontent.com/70491947/254990815-7f541405-1c57-45ab-8a46-1a9d7d999000.png" alt="challenge screenshot"> --->
+  <picture><img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1630058595/Challenges/axhe4rw0jpykyhdphhwc.jpg"></picture>
     <br />
     <br />
     <a href="https://dashing-bunny-3061b5.netlify.app/" target="_blank">View Demo</a>
     &nbsp;·&nbsp;
-    <a href="https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj" target="_blank">View Challenge</a>
+    <a href="https://www.frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6" target="_blank">View Challenge</a>
+    
   </p>
 </div>
 
