@@ -17,19 +17,22 @@
 
 <!-- Challenge Instructions -->
 <h2>The Challenge</h2>
-<picture><img src="https://img.shields.io/badge/difficulty-junior-lightgreen?style=for-the-badge&labelColor=454545&color=A4F86D" alt="difficulty junior></picture>
+<picture><img src="https://img.shields.io/badge/difficulty-junior-lightgreen?style=for-the-badge&labelColor=454545&color=A4F86D" alt="difficulty junior"></picture>
 
 <br>
 <br>
-The challenge is to build an FAQ accordion card and get it looking as close to the design as possible.
+The challenge is to build a GitHub user search app and get it looking as close to the design as possible.
 <br>
 <br>
 <p>
 Users should be able to:
     <ul>
-        <li>Hide/Show the answer to a question when the question is clicked</li>
-        <li>View the optimal layout for the component depending on their device's screen size</li>
+        <li>Search for GitHub users by their username</li>
+        <li>See relevant user information based on their search</li>
+        <li>Switch between light and dark themes</li>
+        <li>View the optimal layout for the app depending on their device's screen size</li>
         <li>See hover states for all interactive elements on the page</li>
+        <li><b>Bonus:</b> Have the correct color scheme chosen for them based on their computer preferences (prefers-color-scheme in css)</li>
     </ul>
 </p>
 <br>
