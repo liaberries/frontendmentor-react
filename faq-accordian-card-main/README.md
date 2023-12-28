@@ -17,7 +17,7 @@
 <picture><img src="https://img.shields.io/badge/DIFFICULTY-NEWBIE-6ABECD?labelColor=454545&style=for-the-badge" alt="DIFFICULTY" /></picture>
 <br>
 <br>
-The challenge is to build out this FAQ accordion card and get it looking as close to the design as possible.
+The challenge is to build an FAQ accordion card and get it looking as close to the design as possible.
 <br>
 <br>
 <p>
