@@ -1,7 +1,7 @@
 <!-- Introduction -->
 <div align="center">
   
-  <h1 align="center">FAQ Accordion Card Solution</h1>
+  <h1 align="center">GitHub user search app</h1>
   <p align="center">
     
   <!--- <img src="https://user-images.githubusercontent.com/70491947/254990815-7f541405-1c57-45ab-8a46-1a9d7d999000.png" alt="challenge screenshot"> --->
