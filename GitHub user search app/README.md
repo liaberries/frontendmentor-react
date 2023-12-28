@@ -17,7 +17,8 @@
 
 <!-- Challenge Instructions -->
 <h2>The Challenge</h2>
-<picture><img src="https://img.shields.io/badge/DIFFICULTY-NEWBIE-6ABECD?labelColor=454545&style=for-the-badge" alt="DIFFICULTY" /></picture>
+<picture><img src="https://img.shields.io/badge/difficulty-junior-lightgreen?style=for-the-badge&labelColor=454545&color=A4F86D" alt="difficulty junior></picture>
+
 <br>
 <br>
 The challenge is to build an FAQ accordion card and get it looking as close to the design as possible.
