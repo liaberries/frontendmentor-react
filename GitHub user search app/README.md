@@ -1,6 +1,6 @@
 <!-- Introduction -->
 <div align="center">
-  
+   <picture><img src="https://www.frontendmentor.io/static/images/logo-desktop.svg" alt="frontendmentor" width="400"></picture>
   <h1 align="center">GitHub User Search App</h1>
   <p align="center">
     
