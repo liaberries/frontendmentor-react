@@ -14,10 +14,12 @@
 
 <!-- Challenge Instructions -->
 <h2>The Challenge</h2>
+<picture>
 <img src="https://img.shields.io/badge/DIFFICULTY-NEWBIE-6ABECD?labelColor=454545&style=for-the-badge" alt="DIFFICULTY" />
+</picture>
 <br>
 <br>
-The challenge is to build out this order summary card component and get it looking as close to the design as possible.
+The challenge is to build out an order summary card component and get it looking as close to the design as possible.
 <br>
 <br>
 <p>
@@ -31,10 +33,10 @@ Users should be able to:
 <!--Tools-->
 <h2>Built With</h2>
 <p>
-<img alt='HTML5' src='https://img.shields.io/badge/html5-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26&color=E34F26'/></a>
-<img alt='CSS3' src='https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6&color=1572B6'/></a>
-<img alt='React' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB&color=61DAFB'/></a>
-<img alt='Visual Studio Code' src='https://img.shields.io/badge/VSCODE-100000?style=for-the-badge&logo=Visual Studio Code&logoColor=white&labelColor=007ACC&color=007ACC'/></a>
+<picture><img alt='HTML5' src='https://img.shields.io/badge/html5-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26&color=E34F26'/></a></picture>
+<picture><img alt='CSS3' src='https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6&color=1572B6'/></a></picture>
+<picture><img alt='React' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB&color=61DAFB'/></a></picture>
+<picture><img alt='Visual Studio Code' src='https://img.shields.io/badge/VSCODE-100000?style=for-the-badge&logo=Visual Studio Code&logoColor=white&labelColor=007ACC&color=007ACC'/></a></picture>
 </p>
 <br>
 
