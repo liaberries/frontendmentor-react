@@ -14,7 +14,9 @@
 
 <!-- Challenge Instructions -->
 <h2>The Challenge</h2>
+<picture>
 <img src="https://img.shields.io/badge/DIFFICULTY-NEWBIE-6ABECD?labelColor=454545&style=for-the-badge" alt="DIFFICULTY" />
+</picture>
 <br>
 <br>
 The challenge is to build out this order summary card component and get it looking as close to the design as possible.
