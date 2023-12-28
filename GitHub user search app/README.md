@@ -32,7 +32,7 @@ Users should be able to:
         <li>Switch between light and dark themes</li>
         <li>View the optimal layout for the app depending on their device's screen size</li>
         <li>See hover states for all interactive elements on the page</li>
-        <li><b>Bonus:</b> Have the correct color scheme chosen for them based on their computer preferences (prefers-color-scheme in css)</li>
+        <li><b>Bonus:</b> Have the correct color scheme chosen for them based on their computer preferences (prefers-color-scheme in CSS)</li>
     </ul>
 </p>
 <br>
