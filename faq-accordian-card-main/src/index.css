@@ -145,6 +145,7 @@ body {
         display:flex;
         position: relative;
         top: 10em;
+        left: 1em;
         padding-bottom: 15em;
     }
 
