@@ -10,36 +10,42 @@ import SingleQuestion from './components/SingleQuestion';
 
 function App() {
 
-  const [quests] = useState(questions);
+  const [openQuestion, setOpenQuestion] = useState(null);
+
+  const toggleVisibility = (index) => {
+    setOpenQuestion(openQuestion === index ? null : index);
+  };
+  
 
   return (
-    <div className="container">
-      <div className="background-image-container">
-        <img src={bgPatternMobile} alt="shadow"></img>
+        <div className="card-container">
+          <div className="column-one">
+            <div className="image-container">
+              <img src={mobileImage} alt="girl standing in front of screen" className="mobile-image"/>
+              <img src={desktopImage} alt="girl standing in front of screen" className="desktop-image"/>
+            </div>
+            <div className="image-shadow">
+              <img src={bgPatternMobile} alt="shadow" className="mobile-shadow"/>
+              <img src={bgPatternDesktop} alt="shadow" className="desktop-shadow"/>
+            </div>
+          </div>
+          
+          <div className="column-two">
+            <h1 className="title">FAQ</h1>
+            <div className="questions">
+              {questions.map((quest, index) => (
+                  <SingleQuestion 
+                    key={index}
+                    question={quest.question}
+                    answer={quest.answer}
+                    isOpen={openQuestion === index}
+                    onToggle={() => toggleVisibility(index)}
+                    />
+                ))}
+            </div>
+          </div>
       </div>
         
-      <div className="image-container">
-        <img src={mobileImage} alt="girl standing in front of giant computer screen"></img>
-      </div>
-        {/* <picture>
-          <source media="(min-width:480px)" srcSet={mobileImage} className="mobile-image"/>
-          <source media="(min-width: 768px)" srcSet={desktopImage} className="desktop-image" />  
-          <img src={desktopImage} alt="" className="desktop-image"/>
-        </picture> */}
-      
-
-      <article className="questions">
-        <h1 className="title">FAQ</h1>
-        {quests.map((quest, index) => (
-          <SingleQuestion 
-            key={index}
-            question={quest.question}
-            answer={quest.answer}
-            />
-        ))}
-      </article>
-    
-    </div>
   );
 }
 

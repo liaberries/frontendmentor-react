@@ -11,14 +11,16 @@
     justify-content: space-between;
     align-items: center;
     width: 23.5em;
+    
 }
 
 
-.article-question article h2{
+.article-question article h2 {
     color: #4B4C5F;
     font-weight: 400;
     font-size: 0.813rem;
     padding-bottom: 0.7em;
+    cursor: pointer;
     
 }
 
@@ -46,4 +48,23 @@
 
 .arrowOpen {
     transform: rotate(180deg);
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 4000px) {
+
+    .article-question {
+        border-bottom: 1px var(--light-grayish-blue) solid;
+        padding-top: 1.5em;
+        width: 32em;
+    }
+
+    .article-question article {
+        margin-bottom: 0.5rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 30em;
+    }
+
 }
