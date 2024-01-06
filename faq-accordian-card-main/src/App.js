@@ -20,7 +20,7 @@ function App() {
 
   return (
       <>
-        <div className="card-container">
+        <main className="card-container">
           <div className="column-one">
             <div className="orange-box">
               <img src={box} alt="box" className="desktop-box"/> 
@@ -51,7 +51,7 @@ function App() {
                 ))}
             </div>
           </div>
-      </div>
+      </main>
     </>
         
   );

@@ -46,10 +46,6 @@
     margin-bottom: 0.5em;
 }
 
-.arrowClosed {
-    /* no rotation when closed */
-}
-
 .arrowOpen {
     transform: rotate(180deg);
 }

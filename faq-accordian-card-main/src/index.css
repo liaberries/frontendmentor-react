@@ -172,9 +172,9 @@ body {
     .desktop-box {
         display: block;
         position: absolute;
-        top: 18.5em;
-        left: -7em;
-        width: 14em;
+        top: 17.3em;
+        left: -8em;
+        width: 16.5em;
         z-index: 999;
     }
 
