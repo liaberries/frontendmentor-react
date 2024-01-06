@@ -21,11 +21,15 @@
     font-size: 0.813rem;
     padding-bottom: 0.7em;
     cursor: pointer;
-    
+}
+
+.article-question article h2:hover {
+    color:var(--soft-red);
 }
 
 .article-question article h2.clicked {
     font-weight: 700;
+    color: var(--very-dark-desaturated-blue);
 }
 
 .article-question p {
@@ -56,7 +60,7 @@
     .article-question {
         border-bottom: 1px var(--light-grayish-blue) solid;
         padding-top: 1.5em;
-        width: 32em;
+        width: 30em;
     }
 
     .article-question article {
@@ -64,7 +68,20 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        width: 30em;
+        width: 29em;
     }
+
+    .article-question article h2 {
+        font-weight: 400;
+        font-size: 0.875rem;
+    }
+
+    .article-question p {
+        font-size: 0.75rem;
+        width: 27em;
+        
+    }
+
+    
 
 }

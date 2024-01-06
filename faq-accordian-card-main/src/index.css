@@ -60,6 +60,7 @@ body {
     position: relative;
     margin-top: 6em;
     padding: 2em;
+    box-shadow: inset 0px 1px 1px 0px rgba(12, 9, 9, 0.1), 0px 50px 100px -20px rgba(13, 13, 26, 0.25), 0px 40px 50px -25px rgba(3, 3, 3, 0.3);
 }
 
 .column-one {
@@ -79,7 +80,7 @@ body {
 
 .image-shadow {
    position: absolute;
-   top: 0.25em;
+   top: 9em;
    left: 50%;
    transform: translateX(-50%);
 }
@@ -104,13 +105,20 @@ body {
     display: none;
 }
 
+.orange-box {
+    display: none;
+}
+
 @media only screen and (min-width: 768px) and (max-width: 4000px) {
 
     .card-container {
         display: flex;
+        flex-direction: row;
         position: relative;
         margin-top: 0em;
-        padding: 2em;
+        padding: 0em;
+        max-width: 98vw;
+        z-index: 0;
     }
 
 
@@ -122,50 +130,61 @@ body {
         display: none;
     }
 
-    .card-container {
-        display: flex;
-        flex-direction: row;
-        overflow:hidden;
-        max-width: 90vw;
-        max-height: 100%;
-    }
-
     .image-container {
-        position:static;
-        /* top: -10em; 
-        left: 50%;
-        transform: translateX(-50%);
-        z-index: 10; 
-        width: 100%; 
-        transform: none; */
+        position:relative;
+        width: 50em;
+        z-index: 0;
+        padding-bottom: 2em;
+        padding-top: 4em;
     }
 
 
     .desktop-image {
         display:flex;
         position: relative;
-        top: 10em;
-        left: 1em;
-        padding-bottom: 15em;
+        top: 8.5em;
+        left: -1em;
+        padding-top: 3em;
+        padding-bottom: 5em;
+        z-index:1;
     }
 
     .column-one {
-        padding-right: 20em;
-    }
-
-    .desktop-shadow {
-        display: flex;
-        width: 100%;
+        width: 38em;
+        overflow:hidden;
     }
 
     .image-shadow {
         position: absolute;
-        top: -18em;
-        left: -9em;
+        top: -15em;
+        left: -3em;
+        width:80em;
+        z-index: 0;
+    }
+
+
+    .desktop-shadow {
+        display: flex;
+        width: 100%;
+        z-index: 0;
+    }
+
+    .desktop-box {
+        display: block;
+        position: absolute;
+        top: 18.5em;
+        left: -7em;
+        width: 14em;
+        z-index: 999;
+    }
+
+    .orange-box {
+        display: flex;
     }
 
     .column-two {
-        padding-right: 8em;
+        padding-right: 4em;
+        z-index: 2;
         
     }
 
@@ -174,5 +193,8 @@ body {
         text-align: left;
     }
 
+    .questions {
+        margin-right: 3em;
+    }
 
 }
