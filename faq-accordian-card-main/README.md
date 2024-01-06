@@ -3,7 +3,7 @@
   <picture><img src="https://www.frontendmentor.io/static/images/logo-desktop.svg" alt="frontendmentor" width="400"></picture>
   <h1 align="center">FAQ Accordion Card Solution</h1>
   <p align="center">
-  <img src="https://user-images.githubusercontent.com/70491947/254990815-7f541405-1c57-45ab-8a46-1a9d7d999000.png" alt="challenge screenshot">
+  <img src="[https://user-images.githubusercontent.com/70491947/254990815-7f541405-1c57-45ab-8a46-1a9d7d999000.png](https://github.com/liaberries/frontendmentor-react/assets/70491947/8f5de424-a6d5-41d2-99c6-88bc932260cb)" alt="challenge screenshot">
     <br />
     <br />
     <a href="https://dashing-bunny-3061b5.netlify.app/" target="_blank">View Demo</a>
@@ -37,7 +37,7 @@ Users should be able to:
 <picture><img alt='CSS3' src='https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6&color=1572B6'/></a></picture>
 <picture><img alt='React' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB&color=61DAFB'/></a></picture>
 <picture><img alt='Visual Studio Code' src='https://img.shields.io/badge/VSCODE-100000?style=for-the-badge&logo=Visual Studio Code&logoColor=white&labelColor=007ACC&color=007ACC'/></a></picture>
-</p>![faq-card-image](https://github.com/liaberries/frontendmentor-react/assets/70491947/8f5de424-a6d5-41d2-99c6-88bc932260cb)
+</p>
 
 <br>
 
