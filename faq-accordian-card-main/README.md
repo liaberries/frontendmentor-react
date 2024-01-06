@@ -37,7 +37,8 @@ Users should be able to:
 <picture><img alt='CSS3' src='https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6&color=1572B6'/></a></picture>
 <picture><img alt='React' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB&color=61DAFB'/></a></picture>
 <picture><img alt='Visual Studio Code' src='https://img.shields.io/badge/VSCODE-100000?style=for-the-badge&logo=Visual Studio Code&logoColor=white&labelColor=007ACC&color=007ACC'/></a></picture>
-</p>
+</p>![faq-card-image](https://github.com/liaberries/frontendmentor-react/assets/70491947/8f5de424-a6d5-41d2-99c6-88bc932260cb)
+
 <br>
 
 <!--Connect-->
