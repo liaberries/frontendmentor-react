@@ -8,7 +8,7 @@
     <br />
     <a href="https://dashing-bunny-3061b5.netlify.app/" target="_blank">View Demo</a>
     &nbsp;·&nbsp;
-    <a href="https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj" target="_blank">View Challenge</a>
+    <a href="https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam" target="_blank">View Challenge</a>
   </p>
 </div>
 
