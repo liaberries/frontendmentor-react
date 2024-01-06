@@ -6,7 +6,7 @@
   <img src="https://github.com/liaberries/frontendmentor-react/assets/70491947/8f5de424-a6d5-41d2-99c6-88bc932260cb" alt="challenge screenshot">
     <br />
     <br />
-    <a href="https://splendid-biscochitos-9d4077.netlify.app" target="_blank">View Demo</a>
+    <a href="https://clinquant-donut-a80580.netlify.app" target="_blank">View Demo</a>
     &nbsp;·&nbsp;
     <a href="https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam" target="_blank">View Challenge</a>
   </p>
